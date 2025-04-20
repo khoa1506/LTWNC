@@ -21,7 +21,7 @@ const Header = () => {
     <header className="bg-blue-600 text-white shadow-md">
       <div className="container mx-auto flex justify-between items-center py-4 px-4">
         <Link to="/" className="text-2xl font-bold">
-          FavoriteMovies
+          Favorite Movies
         </Link>
         <nav className="flex items-center space-x-4">
           <Link to="/" className="hover:text-gray-200">
